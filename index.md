@@ -2,7 +2,7 @@
 
 Hi! My name is Mel. I've been called a hacker by other hackers. Pressed for a short job description, I would say I'm a midwife of makers. I've also been called an engineer (of the electrical, computer, and software varieties), community manager, writer, teacher (primarily at the undergraduate, graduate, and faculty-development levels). I love to write, teach, draw research comics, and make things, and my career has mostly been about helping others do the same. 
 
-I'm interested in hacking the universe by making subsets of it more hackable. Transforming academic culture is a challenge I've chosen to tackle because of its great power to influence growth and access for changemakers of all sorts. My quest is to make a world where makers make themselves, and I'm particularly intrigued with the space between how hackers learn and how engineers are taught. 
+My quest is to make a world where makers make themselves, and I'm particularly intrigued with the space between how hackers learn and how engineers are taught. Transforming academic culture is a challenge I've chosen to tackle because of its great power to influence growth and access for changemakers of all sorts.
 
 I have been told that my "happy is extremely loud," but I'm also Deaf, so... sure! [Here's how to make events accessible to me.](http://mchua.github.io/a11y/) If you're looking for my technical ASL vocabulary, you'll find most of it in [ASLCore's](https://aslcore.org/) branches for [engineering](https://aslcore.org/engineering) and [computing](https://aslcore.org/computerscience), both of which I served as content expert for, and this sentence clause is so that I don't end on a preposition. 
 
