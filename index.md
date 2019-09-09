@@ -8,7 +8,7 @@ I have been told that my "happy is extremely loud," but I'm also Deaf, so... sur
 
 ## Thing I Copy-Paste Into Third-Person Speaker Bio Boxes
 
-Mel Chua is a contagiously enthusiastic hacker, scholar, and perpetual motion machine. She is an auditory low-pass filter, and multimodal polyglot currently working at the Biomedical Engineering department of Georgia Tech in the Studio for Transforming Engineering Learning and Research (STELAR) while completing her Ph.D. at Purdue University’s School of Engineering Education. Mel received her B.S. in Electrical and Computer Engineering from Olin College of Engineering and spent several years in the open source software and hardware industry before returning to academia. Mel’s research focuses on faculty development, learning in hacker/maker communities, embodied qualitative research methodologies, and prototyping alternate ontologies of curricular culture in engineering education.
+Mel Chua is a contagiously enthusiastic hacker, scholar, and perpetual motion machine. She is an auditory low-pass filter and multimodal polyglot currently working at the Biomedical Engineering department of Georgia Tech in the Studio for Transforming Engineering Learning and Research (STELAR) while completing her Ph.D. at Purdue University’s School of Engineering Education. Mel received her B.S. in Electrical and Computer Engineering from Olin College of Engineering and spent several years in the open source software and hardware industry before returning to academia. Mel’s research focuses on faculty development, learning in hacker/maker communities, embodied qualitative research methodologies, and prototyping alternate ontologies of curricular culture in engineering education.
 
 ## You might know me from...
 
