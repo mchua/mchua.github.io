@@ -1,6 +1,6 @@
 # About Mel
 
-Hi! My name is Mel. I've been called a hacker by other hackers. Pressed for a short job description, I would say I'm a midwife of makers. I've also been called an engineer (of the electrical, computer, and software varieties), community manager, writer, teacher (primarily at the undergraduate, graduate, and faculty-development levels). I love to write, teach, draw research comics, and make things, and my career has mostly been about helping others do the same. 
+Hi! My name is Mel. I've been called a hacker by other hackers. Pressed for a short job description, I would say I'm a midwife of makers. I've also been called an engineer (of the electrical, computer, and software varieties), community manager, writer, teacher (primarily at the undergraduate, graduate, and faculty-development levels). I love to write, teach, draw research comics, dance, move, and make things, and my career has mostly been about helping others do the same. 
 
 My quest is to make a world where makers make themselves, and I'm particularly intrigued with the space between how hackers learn and how engineers are taught. Transforming academic culture is a challenge I've chosen to tackle because of its great power to influence growth and access for changemakers of all sorts.
 
