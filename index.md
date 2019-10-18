@@ -1,6 +1,6 @@
 # About Mel
 
-Hi! My name is Mel. I've been called a hacker by other hackers. Pressed for a short job description, I would say I'm a midwife of makers. I've also been called an engineer (of the electrical, computer, and software varieties), community manager, writer, teacher (primarily at the undergraduate, graduate, and faculty-development levels). I love to write, teach, draw research comics, dance, move, and make things, and my career has mostly been about helping others do the same. 
+Hi! My name is Mel. I've been called a hacker by other hackers. Pressed for a short job description, I would say I'm a midwife of makers. I've also been called an engineer (of the electrical, computer, and software varieties), community manager, writer, teacher (primarily at the undergraduate, graduate, and faculty-development levels). I love to write, teach, draw research comics, dance, move, and make things, and my career has mostly been about helping others do the same. I blog at [melchua.com/blog](http://melchua.com/blog/), which is a work in progress I could [use some help with](https://melchua.com/#hey-i-could-use-some-help).
 
 My quest is to make a world where makers make themselves, and I'm particularly intrigued with the space between how hackers learn and how engineers are taught. Transforming academic culture is a challenge I've chosen to tackle because of its great power to influence growth and access for changemakers of all sorts.
 
@@ -12,23 +12,24 @@ Mel Chua is a contagiously enthusiastic hacker, scholar, and perpetual motion ma
 
 ## You might know me from...
 
-- Illinois Math and Science Academy
-- Olin College (Electrical/Computer Engineering)
+- Illinois Math and Science Academy (high school)
+- Olin College (undergrad, Electrical/Computer Engineering)
 - One Laptop Per Child (Support/QA/Grassroots)
 - Sugar Labs (Board member, Marketing, Sugar on a Stick)
 - Fedora Linux
 - Red Hat
+- Recurse Center / Hacker School (Resident)
 - The Ada Initiative (advisory board)
-- Purdue University (Engineering Education)
+- Purdue University (Engineering Education PhD program)
 - RIT/NTID ("Deaf academia gap year")
 - Georgia Tech (Biomedical Engineering)
 - Other places. I mean, I've been around a bunch.
 
 # Hey, I could use some help!
 
-This website is a quick hack put up late at night the week of Strange Loop so that I'd have a working website again. Let's just say that I planned my transition from Wordpress to static sites... poorly, and there are reasons I am not and never should be a sysadmin.
+This website is a quick hack put up late at night so I'd have a working website before going to Strange Loop. Similarly, the [blog](http://melchua.com/blog/) is a late-night hack (with thanks to my friend [Giordon Stark](https://giordonstark.com)) so my old posts would be findable _somewhere_. 
 
-If anyone knows how to get years of blog posts (already converted into Markdown format) up on some kind of reasonably paginated blog (Gatsby preferred, Jekyll also fine), please get in touch. Seriously, I need help with this; I keep using it as an excuse to procrastinate on my dissertation revisions. I'd be super willing to pay or trade services with the right person.
+Let's just say that I planned my transition from Wordpress to static sites... poorly, and there are reasons I am not and never should be a sysadmin. If anyone's interested in helping me finish the visual design and/or technical implementation of this site (fairly straightforward Jekyll/blog), I'm looking to hire someone -- please get in touch! (Seriously, I need help with this; I keep using it as an excuse to procrastinate on my dissertation revisions.)
 
 # Want to get in touch?
 
