@@ -8,7 +8,7 @@ I have been told that my "happy is extremely loud," but I'm also Deaf, so... sur
 
 ## Thing I Copy-Paste Into Third-Person Speaker Bio Boxes
 
-Mel Chua is a contagiously enthusiastic hacker, scholar, and perpetual motion machine. She is an auditory low-pass filter and multimodal polyglot and a PhD candidate at Purdue University’s School of Engineering Education. Mel received her B.S. in Electrical and Computer Engineering from Olin College of Engineering and spent several years in the open source software and hardware industry before returning to academia. Mel’s research focuses on faculty development, learning in hacker/maker communities, embodied qualitative research methodologies, and prototyping alternate ontologies of curricular culture in engineering education.
+Mel Chua (she/they) is a contagiously enthusiastic hacker, scholar, and perpetual motion machine. They are an auditory low-pass filter, multimodal polyglot (ASL/English), and enthusiastic crutch and manual wheelchair user and dancer. Mel received her B.S. in Electrical and Computer Engineering from Olin College of Engineering and spent several years in the open source software and hardware industry before returning to academia and earning a PhD from Purdue University’s School of Engineering Education under Robin S. Adams. Their research focuses on faculty development, learning in hacker/maker communities, embodied qualitative research methodologies, and prototyping alternate ontologies of curricular culture in engineering education.
 
 ## You might know me from...
 
@@ -23,6 +23,7 @@ Mel Chua is a contagiously enthusiastic hacker, scholar, and perpetual motion ma
 - Purdue University (Engineering Education PhD program)
 - RIT/NTID ("Deaf academia gap year")
 - Georgia Tech (Biomedical Engineering)
+- the Disabled Techies and Deaf Pros Slack communities
 - Other places. I mean, I've been around a bunch.
 
 # Hey, I could use some help!
